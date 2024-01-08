@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chloe</h1>
-<p align="left">🏃‍<b>設計師轉職前端工程師的路途中。</b>♀️</br></br>擁有3年以上廣告設計經驗，注重畫面的設計感，也喜歡coding的思考過程中帶來的成就感，</br>因此想結合設計與程式，呈現最好的介面給使用者。</p>
+<p align="left">🏃‍<b>設計師轉職前端工程師。</b>♀️</br></br>擁有2年前端Vue經驗、3年以上廣告設計經驗，注重畫面的設計感，也喜歡coding的思考過程中帶來的成就感，</br>因此想結合設計與程式，呈現最好的介面給使用者。</p>
 
  - 📝 I regularly write articles on [Blog](https://chloelin.coderbridge.io/)
 
