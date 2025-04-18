@@ -5,14 +5,28 @@
 </br></br>With 3 years of experience in frontend development using Vue and over 3 years of experience in advertising design, I focus on the aesthetics of the interface and enjoy the sense of achievement that comes from the coding process.</br>Therefore, I aim to combine design and programming to present the best interface to users.
 </p>
 
- - 📝 I regularly write articles on [Blog](https://chloelin.coderbridge.io/)
+ - 📝 I regularly write articles on [Blog](https://chloelin.coderbridge.io/](https://blog-omega-gilt-59.vercel.app/blog)
 
  - 📫 How to reach me **snsn550@gmail.com**
 
  - 📄 Know about my experiences [here](https://www.cakeresume.com/snsn550)
 
-
+https://i.imgur.com/CgJbVAw.png
+https://i.imgur.com/KbMHwn0.png
+https://i.imgur.com/6K9InrG.png
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+<p align="left"> <img src="https://i.imgur.com/KbMHwn0.png" alt="vue" width="40" height="40"/>
+ <img src="https://i.imgur.com/jf8ho2u.png" alt="React" width="40" height="40"/>
+ <img src="https://i.imgur.com/6K9InrG.png" alt="Next" width="40" height="40"/>
+ <img src="https://i.imgur.com/IfoDLbu.png" alt="Nuxt" width="40" height="40"/>
+ <img src="https://i.imgur.com/KbMHwn0.png" alt="typescript" width="40" height="40"/>
+ <img src="https://i.imgur.com/E53qcDD.png" alt="git" width="40" height="40"/>
+ <img src="https://i.imgur.com/4ST7qT5.png" alt="html5" width="40" height="40"/>
+ <img src="https://i.imgur.com/mcV4BhE.png" alt="javascript" width="40" height="40"/>
+ <img src="https://i.imgur.com/znwK99O.png" alt="figma" width="40" height="40"/>
+ <img src="https://i.imgur.com/3t28fIm.png" alt="AE" width="40" height="40"/>
+ <img src="https://i.imgur.com/AluTOLw.png" alt="AI" width="40" height="40"/>
+ <img src="https://i.imgur.com/Iz3963W.png" alt="PS" width="40" height="40"/>
+ <img src="https://i.imgur.com/h1No0ob.png" alt="PR" width="40" height="40"/>
+</p>
