@@ -5,7 +5,7 @@
 </br></br>With 3 years of experience in frontend development using Vue and over 3 years of experience in advertising design, I focus on the aesthetics of the interface and enjoy the sense of achievement that comes from the coding process.</br>Therefore, I aim to combine design and programming to present the best interface to users.
 </p>
 
- - 📝 I regularly write articles on [Blog](https://chloelin.coderbridge.io/](https://blog-omega-gilt-59.vercel.app/blog)
+ - 📝 I regularly write articles on [Blog](https://blog-omega-gilt-59.vercel.app/blog)
 
  - 📫 How to reach me **snsn550@gmail.com**
 
