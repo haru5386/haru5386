@@ -11,16 +11,12 @@
 
  - 📄 Know about my experiences [here](https://www.cakeresume.com/snsn550)
 
-https://i.imgur.com/CgJbVAw.png
-https://i.imgur.com/KbMHwn0.png
-https://i.imgur.com/6K9InrG.png
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://i.imgur.com/KbMHwn0.png" alt="vue" width="40" height="40"/>
  <img src="https://i.imgur.com/jf8ho2u.png" alt="React" width="40" height="40"/>
  <img src="https://i.imgur.com/6K9InrG.png" alt="Next" width="40" height="40"/>
  <img src="https://i.imgur.com/IfoDLbu.png" alt="Nuxt" width="40" height="40"/>
- <img src="https://i.imgur.com/KbMHwn0.png" alt="typescript" width="40" height="40"/>
+ <img src="https://i.imgur.com/CgJbVAw.png" alt="typescript" width="40" height="40"/>
  <img src="https://i.imgur.com/E53qcDD.png" alt="git" width="40" height="40"/>
  <img src="https://i.imgur.com/4ST7qT5.png" alt="html5" width="40" height="40"/>
  <img src="https://i.imgur.com/mcV4BhE.png" alt="javascript" width="40" height="40"/>
