@@ -9,8 +9,6 @@
 
  - 📫 How to reach me **snsn550@gmail.com**
 
- - 📄 Know about my experiences [here](https://www.cakeresume.com/snsn550)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://i.imgur.com/KbMHwn0.png" alt="vue" width="40" height="40"/>
  <img src="https://i.imgur.com/jf8ho2u.png" alt="React" width="40" height="40"/>
